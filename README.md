@@ -1,5 +1,10 @@
-### Hi there 👋
+### 👋 Hello, my name is Vincent Ramirez 
+### I'm a full stack developer, specialized in websites and programs optimized for the exponential growth of your company.
 
+
+## Skills:
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)
+![Node.JS](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)
 <!--
 **vincentramirezweb/vincentramirezweb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
